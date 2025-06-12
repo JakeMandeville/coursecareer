@@ -1,0 +1,10 @@
+.input{
+    border-style:double;
+    border-color: red;
+    background-color: black;
+    align-content: center;
+}
+
+form{
+    text-align: center;
+}
